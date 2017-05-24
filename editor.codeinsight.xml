@@ -1,6 +1,0 @@
-<application>
-  <component name="Go">
-    <option name="formatOnSave" value="GOFMT" />
-    <option name="importSorting" value="ONE_DECLARATION" />
-  </component>
-</application>
