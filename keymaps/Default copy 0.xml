@@ -1,0 +1,8 @@
+<keymap version="1" name="Default copy 0" parent="Mac OS X 10.5+">
+  <action id="EditorAddOrRemoveCaret">
+    <mouse-shortcut keystroke="alt button1" />
+  </action>
+  <action id="QuickEvaluateExpression">
+    <keyboard-shortcut first-keystroke="meta alt f8" />
+  </action>
+</keymap>
