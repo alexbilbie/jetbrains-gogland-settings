@@ -572,6 +572,11 @@
         <option name="ERROR_STRIPE_COLOR" value="55" />
       </value>
     </option>
+    <option name="SQL_COLUMN">
+      <value>
+        <option name="FOREGROUND" value="f8f8f2" />
+      </value>
+    </option>
     <option name="STATIC_FIELD_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="f8f8f2" />
