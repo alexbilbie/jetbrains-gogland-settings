@@ -2,8 +2,11 @@
   <component name="LineMarkerSettings">
     <option name="providers">
       <map>
-        <entry key="com.goide.go.GoGotoSuperHandler$GoSuperMarkerProvider" value="false" />
-        <entry key="com.goide.go.GoInheritorsSearch$GoInheritorMarkerProvider" value="false" />
+        <entry key="com.goide.editor.marker.GoRunGenerateLineMarkerProvider" value="true" />
+        <entry key="com.goide.go.GoGotoSuperHandler$GoSuperMarkerProvider" value="true" />
+        <entry key="com.goide.go.GoInheritorsSearch$GoInheritorMarkerProvider" value="true" />
+        <entry key="com.intellij.execution.lineMarker.RunLineMarkerProvider" value="true" />
+        <entry key="com.intellij.sql.editor.SqlLineMarkerProvider" value="true" />
       </map>
     </option>
   </component>
